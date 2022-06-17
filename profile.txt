@@ -1,2 +1,1 @@
-AccessKey = AKIAXLKGDALK3KDUYNLI
-SecretAccessKey = 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
+
